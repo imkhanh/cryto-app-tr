@@ -7,7 +7,7 @@ const Coin = ({name,image,symbol,price,volume,priceChange,marketcap}) => {
                     <div className="coin">
                         <img src={image} alt="cryto"/>
                         <h1>{name}</h1>
-                    <p className="coin-symbol">{symbol}</p>
+                         <p className="coin-symbol">{symbol}</p>
                     </div>
                     <div className="coin-data">
                         <div className="coin-price">${price}</div>
