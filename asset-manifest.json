@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cryto-app-tr/static/css/main.13417bf7.chunk.css",
+    "main.js": "/cryto-app-tr/static/js/main.c1d71ae1.chunk.js",
+    "main.js.map": "/cryto-app-tr/static/js/main.c1d71ae1.chunk.js.map",
+    "runtime-main.js": "/cryto-app-tr/static/js/runtime-main.56b4d081.js",
+    "runtime-main.js.map": "/cryto-app-tr/static/js/runtime-main.56b4d081.js.map",
+    "static/js/2.a8c78b2b.chunk.js": "/cryto-app-tr/static/js/2.a8c78b2b.chunk.js",
+    "static/js/2.a8c78b2b.chunk.js.map": "/cryto-app-tr/static/js/2.a8c78b2b.chunk.js.map",
+    "static/js/3.d0a93c7e.chunk.js": "/cryto-app-tr/static/js/3.d0a93c7e.chunk.js",
+    "static/js/3.d0a93c7e.chunk.js.map": "/cryto-app-tr/static/js/3.d0a93c7e.chunk.js.map",
+    "index.html": "/cryto-app-tr/index.html",
+    "static/css/main.13417bf7.chunk.css.map": "/cryto-app-tr/static/css/main.13417bf7.chunk.css.map",
+    "static/js/2.a8c78b2b.chunk.js.LICENSE.txt": "/cryto-app-tr/static/js/2.a8c78b2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b4d081.js",
+    "static/js/2.a8c78b2b.chunk.js",
+    "static/css/main.13417bf7.chunk.css",
+    "static/js/main.c1d71ae1.chunk.js"
+  ]
+}
